@@ -28,10 +28,10 @@ A modern web application built with React, TypeScript, and Firebase for managing
 
 ## 🔧 Installation
 
-1. Clone the repository:
+1. Clone or Download the repository:
 ```bash
-git clone [your-repository-url]
-cd [your-repository-name]
+git clone https://github.com/sachithsamaraweera/PatientManagementDashboard
+cd PatientManagementDashboard
 ```
 
 2. Install dependencies:
@@ -87,7 +87,5 @@ VITE_FIREBASE_APP_ID
 VITE_FIREBASE_MEASUREMENT_ID
 ```
 
-## 📝 License
 
-[MIT]
 
